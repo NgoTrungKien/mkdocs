@@ -1,0 +1,36 @@
+STT	Câu hỏi	Trả lời
+1	GAP giải trình được là gì?	"là gap có bằng chứng chứng minh hợp lý, Hải quan chấp nhận
+現物と在庫廃却データの差異理由を説明するための証跡がない"
+2	Bằng chứng ở đây là gì? Như thế nào thì Hải quan chấp nhận?Lấy ví dụ	Có giấy tờ biên bản chứng minh, Hải quan không chấp nhận…たとえば：副材料差異
+3	Gap không giải trình được là gì?	Không có bằng chứng chứng minh chênh lêch đó có lý do hợp lý 説明の証拠はない
+4	Tại sao 2 lý do chênh lệch trên lại không giải trình được?	
+5	Giải thích kỹ lý do phân loại sai hàng thuộc tỷ lệ hao hụt và không hao hụt	"Trước đó logic của kế toán những hàng ngoài HH chỉ là ECO,EOL, hàng đòi được bồi thường, không bồi thường. Còn lại cho vào tỷ lệ hao hụt dẫn tới sai khác.
+BMはECO,EOL廃却部品だけ実数で管理する部品を分類しました。実際はそれだけではない保険対象廃却部品も実数で廃却数量を管理する部品だが。"
+6	Balance là gì?	"Balance là việc xác nhận không có sự chênh lệch về số lượng giữa tồn kho sổ sách Hải quan và tồn kho trên sổ sách FXHP
+通関のバランス管理:　通関に申告した輸入した部材、輸出した製品、廃却数量とFXHP内の実在庫に差が発生しないように管理します。"
+7	Quản lý Balance có quản lý thành phẩm không? Quản lý tồn kho Inventory	Bản chất quản lý linh kiện
+8	Khi nào biết được nguyên nhân cốt lõi: không có quy định cho hàng bồi thường bảo hiểm?	Khi xác nhận với BM về thực trạng xử lý loại hàng này
+9	EPE là gì?	"EPE là tên viết tắt cho doanh nghiệp có nghĩa vụ phải xuất khẩu toàn bộ sản phẩm được sản xuất từ linh kiện nhập vào, và sẽ không phải chịu thuế nhập khẩu. Trong đây cụm từ tôi viết sai
+EPE企業: 調達した部材については、必ず製品として全て輸出することが義務付けられています"
+10	AEO là gì?	Là chứng chỉ doanh nghiệp ưu tiên, 
+11	Nếu có AEO thì FXHP có lợi thế như thế nào?	thủ tục Hải quan nhập sẽ được đơn giản hóa, linh kiện nhập đầu vào sẽ không phải kiểm tra hàng thực tế với chứng từ. Miễn thuế nhập khẩu và thuế giá trị giá tăng
+12	Nếu bị tước bỏ AEO thì có rủi ro gì cho FXHP?	Leadtime nhập linh kiện sẽ kéo dài, ảnh hưởng lớn đến sản xuất của nhà máy
+13	EPE và AEO có gì khác nhau?	EPE là tên của loại hình doanh nghiệp xuất khẩu toàn bộ , AEO là chứng chỉ doanh nghiệp ưu tiên
+14	Tỷ lệ hao hụt là gì?	Những linh kiện lỗi hỏng phát sinh trên line…? Là tỷ lệ hàng hỏng phát sinh trên line trên tổng số lượng linh kiện đưa vào lắp ráp
+15	Tỷ lệ hao hụt này được tính như thế nào?	Lượng linh kiện lỗi hỏng trên tổng linh kiện tạo nên sản phẩm
+16	Hủy thuộc tỷ lệ hao hụt là gì? 	Là hủy những linh kiện mà phát sinh trong quá trình lắp ráp, Hải quan tính bằng tỷ lệ %
+17	Hủy hàng thực tế là gì	là những hàng không thể tính bằng % tỷ lệ hao hụt nên phải quản lý bằng số lượng thực tế
+18	Hải quan quản lý hàng hủy bằng 2 loại hàng thuộc tỷ lệ HH và hàng thực tế hủy à?	đúng, quản lý hết.
+19	Tại sao Hải quan không quản lý hàng EOL,ECO bằng tỷ lệ HH?	
+20	ECO, EOL là gì?	ECO là thay đổi thiết kế sản phẩm Enjineering Change Order: 設計変更、EOL là kết thúc dòng đời sản phẩm End of line: 生産ターミネート
+21	Tỷ lệ 0.01% dựa vào đâu	chúng tôi đã tham khảo một số doanh nghiệp ưu tiên khác khi HQ kiểm tra thì tỷ lệ này là hợp lý
+22	0.01% này tính như thế nào?	Lượng chênh lệch không giải trình được hàng hủy trên tổng lượng đã báo cáo Hải quan
+23	Tại sao tiêu chuẩn của Hải quan là 0.01% mà lại thiết lập mục tiêu 0.008%	"Để đạt được tiêu chuẩn HQ 0.01% thì phải giảm toàn bộ các chênh lệch không giải trình được 3.047%. 
+Trong khi đó tôi chỉ tập trung vào giải quyết 2 lý do phân loại sai và hàng hủy SXT 3.055% nên  phải đăt mục tiêu 0.008%"
+24	Đối sách : lập WF tổng thể cho hàng sản xuất thử là ntn?	là tổng thể từ lúc nhập vào, xuất và hủy
+25	Đối sách : lập WF tổng thể cho hàng đòi được bồi thường là ntn?	là từ lúc phát sinh hàng được đòi bồi thường đến lúc kết thúc
+26	Gap tháng 123 như thế nào? Tại sao lại phát sinh GAP?	tháng 1 có phát sinh GAP 350pcs nhưng vẫn trong mức tiêu chuẩn quy định. Tháng 2 đang xác nhận lại GAP, tháng 3 chưa đến deadline xác nhận.
+27	không có phát sinh GAP lý do khác hay sao?	
+28	Trong các hoạt động này thì hoạt động nào là khó khăn nhất? Vì sao	Hoạt động thực hiện đối sách 3 là khó nhất: xây dựng quy trình, triển khai với PT. yêu cầu PT follow quy trình, đưa dữ liệu hàng hủy lên trên hệ thống để quản lý 1 nguồn. Vì việc đưa dữ liệu hàng hủy lên hệ thống còn phụ thuộc vào dữ liệu đầu vào nguyên vật liệu, thiết lập BOM trên hệ thống. Trước đây PIC chỉ quản lý dữ liệu BOM và hàng xuất mà không hiểu được việc quản lý hàng hủy là
+29	Vai trò của bạn trong hoạt động cải tiến lần này là gì?	Tôi là người đã tìm ra được vấn đề, hợp tác với các phòng ban khác, leading các cuộc họp để tìm ra nguyên nhân, đối sách để giải quyết vấn đề
+30	Bạn sẽ làm gì sau khi trở thành Senior staff	Tôi sẽ cải tiến nghiệp vụ Balance bằng cách tự động hóa các thao tác thủ công. Tiếp tới là trau dồi kiến thức bản thân, tiếng nhật và các kỹ năng làm việc với phòng ban khác.
